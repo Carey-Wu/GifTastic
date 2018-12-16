@@ -45,7 +45,7 @@ function gifInfo(){
     console.log(character);
 
     // Setting a variable for the API URL using the variable character to complete the search parameter of the API call
-    var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + character + "&api_key=wSIksXpc8DXBGt2M0PfFwBrU14BVeo15&limit=10";
+    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + character + "&api_key=wSIksXpc8DXBGt2M0PfFwBrU14BVeo15&limit=10";
 
     // AJAX call to retrieve API data
     $.ajax({
