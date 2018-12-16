@@ -1,0 +1,35 @@
+.btn {
+    margin: 5px;
+}
+
+body {
+    background-image: url("../images/Marvel\ Background.jpg");
+    width: 1520px;
+}
+
+.container1 {
+    background: rgba(175, 8, 8, 0.575);
+    margin-top: 5px;
+    width: 75%;
+    margin-left: 200px;
+}
+
+.container2 {
+    background: rgba(175, 8, 8, 0.575);
+    width: 75%;
+    margin-left: 200px;
+}
+
+h1 {
+    font: bolder 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+}
+
+#characterNameInput {
+    padding-top: 50px;
+}
+
+#name-input {
+    margin-right: 5px;
+}
